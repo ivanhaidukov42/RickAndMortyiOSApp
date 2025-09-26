@@ -7,6 +7,7 @@
 
 import UIKit
 
+/// Controller to show nad search for episodes
 final class RMEpisodeViewController: UIViewController {
 
     override func viewDidLoad() {
